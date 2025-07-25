@@ -1,3 +1,5 @@
+![React Alert & Confirm Hook](https://raw.githubusercontent.com/jfsemideys/js-react-alert-confirm/main/docs/banner.png)
+
 # js-react-alert-confirm
 
 A lightweight React hook that provides `alert()` and `confirm()` behavior using JSX-based dialogs — without needing a provider or global context.

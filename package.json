@@ -1,6 +1,6 @@
 {
     "name": "js-react-alert-confirm",
-    "version": "1.0.4",
+    "version": "1.0.6",
     "description": "Custom React hook for alert and confirm dialogs using JSX",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
