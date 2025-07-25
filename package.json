@@ -1,0 +1,52 @@
+{
+    "name": "js-react-alert-confirm",
+    "version": "1.0.4",
+    "description": "Custom React hook for alert and confirm dialogs using JSX",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "files": [
+        "dist"
+    ],
+    "scripts": {
+        "build": "tsc"
+    },
+    "keywords": [
+        "react",
+        "hook",
+        "alert",
+        "confirm",
+        "dialog",
+        "modal"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "peerDependencies": {
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0"
+    },
+    "devDependencies": {
+        "typescript": "^5.8.3"
+    },
+    "keywords": [
+        "react",
+        "react-hook",
+        "custom-hook",
+        "alert",
+        "confirm",
+        "dialog",
+        "modal",
+        "jsx-dialog",
+        "jsx-alert",
+        "react-alert",
+        "react-confirm",
+        "global-dialog",
+        "promise-alert",
+        "promise-confirm",
+        "modal-hook",
+        "confirm-dialog",
+        "alert-dialog",
+        "typescript",
+        "react-modal",
+        "react-component"
+      ]
+}

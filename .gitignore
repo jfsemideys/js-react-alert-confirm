@@ -1,0 +1,24 @@
+# Node dependencies
+node_modules/
+dist/
+.cache/
+.npm/
+
+# Build output
+*.log
+*.tsbuildinfo
+*.tgz
+
+# Editor settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+
+# Example/demo app (optional)
+example/
